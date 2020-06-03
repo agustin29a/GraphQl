@@ -1,0 +1,18 @@
+[   
+    {   
+        "id": 1,
+        "name": "Course 1",
+        "description": "First Grade"
+    },
+    {   
+        "id": 2,
+        "name": "Course 2",
+        "description": "Second Grade"
+    },
+    {   
+        "id": 3,
+        "name": "Course 3",
+        "description": "Third Grade"
+    }
+
+]
